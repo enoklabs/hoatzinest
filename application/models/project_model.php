@@ -13,7 +13,7 @@
         public function get_projects() {
 
             $this->db->order_by('project_id', 'DESC');
-            $q = $this->db->get('projects', 3);
+            $q = $this->db->get('projects', 4);
             if($q->num_rows > 0){
             
                 foreach($q->result() as $row){
@@ -43,6 +43,14 @@
         }
         
         public function get_project_details($id){
+            $this->db->select('*');
+            $this->db->from('projects');
+            $this->db->where('project_id', $id);
+            return $this->db->get()->result_array();
+    
+        }
+        
+                public function get_comment_details($id){
             $this->db->select('*');
             $this->db->from('projects');
             $this->db->where('project_id', $id);

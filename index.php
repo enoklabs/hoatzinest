@@ -19,7 +19,7 @@
  *
  */
 	//define('ENVIRONMENT', 'development');
-	if (isset($_SERVER['PLATFORM']))
+if (isset($_SERVER['PLATFORM']))
 {
     switch ($_SERVER['PLATFORM']) {
  

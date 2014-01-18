@@ -31,7 +31,7 @@
             </ul>
         </div>
         <div class="large-4 columns">
-            <a href="build.php" class="button primary right radius wide ">Start Idea</a>
+            <a class="button primary right radius wide" href="<?php echo base_url();?>build">Start Idea</a>
         </div>
 
     </div>
