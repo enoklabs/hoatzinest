@@ -50,13 +50,6 @@
     
         }
         
-                public function get_comment_details($id){
-            $this->db->select('*');
-            $this->db->from('projects');
-            $this->db->where('project_id', $id);
-            return $this->db->get()->result_array();
-    
-        }
         
     }
 ?>
