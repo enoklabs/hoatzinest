@@ -67,7 +67,9 @@ img {
   max-width: none !important; }
 
 .left {
-  float: left !important; }
+  float: left !important;}
+.leftimg {
+  padding-right:7%; }
 
 .right {
   float: right !important; }
