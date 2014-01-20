@@ -1,13 +1,10 @@
-
 <!-- About Page -->
 <section>
     <div class="row">
         <div class="large-12 columns">
-            <br/><br/>
             <h3>About</h3>
-            <br/><br/>
 
-            <div class="row">
+            <div class="row main">
                 <div class="large-6 columns">
                     <p>HoatziNest is an online platform for enthusiasts that love
                         building for the web, whether it is a website, web application, or
@@ -22,13 +19,12 @@
                         for the web. Technical and business mentoring resources can also be
                         found in this online platform.
                     </p>
-
                 </div>
                 <div class="large-6 columns">
                     <img src="<?php echo base_url();?>assets/img/about1.jpg" alt="about image"/>
                 </div>
             </div>
-            <div class="row">
+            <div class="row main">
                 <div class="large-6 columns">
                     <img src="<?php echo base_url();?>assets/img/about2.jpg" alt="about image"/>
                 </div>
@@ -45,11 +41,8 @@
                         Google Drive, Asana, Teambox etc. These online Hoatzin techies will
                         be ready to make things happen with excitement and inspiration
                         under their belts.</p>
-
                 </div>
             </div>
-
         </div>
-
     </div>
 </section>
