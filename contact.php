@@ -8,14 +8,12 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <br/><br/>
             <h3>Have a question, concern, or awesome idea? Let us know!</h3>
             <p>* Denotes Required Field</p>
-            <br/><br/>
         </div>
     </div>
 
-    <div class="row">
+    <div class="row main">
         <div class="large-12 columns textbox">
 
             <div class="row">
@@ -75,19 +73,15 @@
                     <div class="row">
                         <div class="large-12 columns">
                             <ul class="inline-list">
-                                <li><a class="twitter2" href="#"></a></li>
+                                <li><a class="twitter2" href="http://www.twitter.com/hoatzinest"></a></li>
                                 <li><a class="facebook2" href="#"></a></li>
-                                <li><a class="mail2" href="#"></a></li>
+                                <li><a class="mail2" href="contact"></a></li>
                             </ul>
                         </div>
                     </div>
-
-
                 </div>
             </div>
-
         </div>
-
     </div>
 </section>
 <!-- === End Mid Content === -->

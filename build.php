@@ -6,15 +6,13 @@
 <section>
     <div class="row">
         <div class="large-12 columns">
-            <br/><br/>
             <h3>Create a Project</h3>
             <p>* Denotes Required Field</p>
-            <br/><br/>
         </div>
     </div>
 
     <!-- SECTION 1 - TITLE -->
-    <div class="row">
+    <div class="row main">
         <div class="large-12 columns">
             <span class="number left">1</span>
             <h3>Project Title *</h3>
@@ -48,7 +46,6 @@
                     <span>This project team will need members with expertise in the following areas:</span>
                     <p>Choose one or more*</p>
                 </div>
-
             </div>
 
             <div class="row">

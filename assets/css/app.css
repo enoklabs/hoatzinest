@@ -226,6 +226,25 @@ header{
 .checkboxes{
     margin: 30px 0 40px !important;
 }
+.form{
+    margin: 120px 0;
+}
+.main{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+.discussion{
+    padding: 50px 0;
+}
+.top-margin{
+    margin-top: 115px !important;
+}
+.bottom-spacer{
+    margin-bottom: 15px;
+}
+.about p{
+    padding-top: 10px;
+}
 /********** Side Widgets **********/
 .widget {
     margin-bottom: 40px;
@@ -309,7 +328,9 @@ header{
     border-radius: 5px;
     box-shadow: none;
 }
-
+section h3{
+    margin: 50px 0 0 0;
+}
 
 /********** Footer **********/
 footer{
