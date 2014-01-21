@@ -2,464 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e3325b-f8f6-4fb6-acb3-89b3723162db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/uploads/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/uploads/10_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/appflowchart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/ci_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/ci_logo_flame.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/ci_quick_ref.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_helper_reference.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_helper_reference.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_library_reference.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_library_reference.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/file.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/nav_bg_darker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/nav_separator_darker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/nav_toggle_darker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/reactor-bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/texb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/transparent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Benchmark.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_active_rec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Email.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/javascript/Jquery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpass-0.1/c/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Output.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpass-0.1/PasswordHash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Security.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Sha1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Typography.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/URI.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Utf8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Zip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/active_record.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/alternative_php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/ancillary_classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/appflow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/array_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/at_a_glance.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/arabic/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/bulgarian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/catalan/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/croatian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/czech/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/danish/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/dutch/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/estonian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/finnish/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/french/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/german/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/greek/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/indonesian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/italian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/japanese/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/korean/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/lithuanian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/norwegian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/persian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/pirate/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/polish/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/portuguese/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/romanian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/russian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/slovak/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/slovenian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/spanish/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/swedish/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/turkish/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/ukrainian/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/zh_cn/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/zh_tw/auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/autoloader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/benchmark.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/caching.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/caching.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/caching.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/call_function.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/captcha_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/changelog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/cheatsheets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/cli.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/common_functions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/conclusion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/config.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/configuration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/connecting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/controllers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/cookie_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/core_classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/create_news_items.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/creating_drivers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/creating_libraries.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/credits.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpass-0.1/c/crypt_private.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/date_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/directory_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/download_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/downloads.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/drivers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/email.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/email_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/encryption.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/environments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_php.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/examples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/features.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/fields.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/file_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/file_uploading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/forge.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/form_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/form_validation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/ftp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/getting_started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/hacks.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/hard_coded_pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/helpers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/helpers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/hooks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/html_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/image_lib.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/third_party/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/doc_style/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/inflector_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/arabic/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/bulgarian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/catalan/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/croatian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/czech/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/danish/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/dutch/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/estonian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/finnish/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/french/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/german/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/greek/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/indonesian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/italian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/japanese/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/korean/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/lithuanian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/norwegian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/persian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/pirate/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/polish/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/portuguese/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/romanian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/russian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/slovak/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/slovenian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/spanish/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/swedish/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/turkish/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/ukrainian/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/zh_cn/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/zh_tw/ion_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/javascript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/language.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/language_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/libraries.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/license.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/loader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/managing_apps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/migration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/model_users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/models.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/moo.fx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/mvc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/new_members.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/news_section.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/number_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/output.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/parser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/path_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/profiling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/project.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/project.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/project_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/projects.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/projects.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/prototype.lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/queries.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/quick_reference.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/recaptcha_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/requirements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/reserved_names.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/results.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/routing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/security.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/security.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/security_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/sent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/sessions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/showcase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/showcase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/signup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/smiley_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_dump.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/static_pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/string_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/styleguide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/success.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/success.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/table_data.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/tank_auth_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/doc_style/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpass-0.1/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/text_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/toc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/trackback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/transactions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/troubleshooting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/typography_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/unit_testing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_120.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_130.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_131.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_132.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_133.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_140.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_141.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_150.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_152.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_153.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_154.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_160.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_161.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_162.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_163.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_170.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_171.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_172.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_200.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_201.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_202.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_203.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_210.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_211.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_212.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_213.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_214.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_b11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/upload_form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/uri.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/url_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/urls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/user_agent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/user_guide_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/userguide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/utilities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/xml_helper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/xmlrpc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/zip.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/foundation.css" afterPath="$PROJECT_DIR$/assets/css/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/build.php" afterPath="$PROJECT_DIR$/application/views/build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/login.php" afterPath="$PROJECT_DIR$/application/views/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/project.php" afterPath="$PROJECT_DIR$/application/views/project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/signup.php" afterPath="$PROJECT_DIR$/application/views/signup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hoatzinest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -482,74 +31,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
+      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="26" selection-start="2432" selection-end="2432" vertical-scroll-proportion="-11.125" vertical-offset="783" max-vertical-offset="1455">
+            <state line="393" column="53" selection-start="6484" selection-end="6484" vertical-scroll-proportion="0.0" vertical-offset="5550" max-vertical-offset="7125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
+      <file leaf-file-name="signup.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="690">
+            <state line="11" column="94" selection-start="504" selection-end="504" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signin.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signin.php">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="8" column="24" selection-start="344" selection-end="344" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="5520">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.php">
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="49" selection-start="1698" selection-end="1698" vertical-scroll-proportion="-15.916667" vertical-offset="158" max-vertical-offset="2280">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="projects.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1800">
+            <state line="21" column="47" selection-start="736" selection-end="736" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.php">
+        <entry file="file://$PROJECT_DIR$/application/views/build.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="29" selection-start="4257" selection-end="4257" vertical-scroll-proportion="-61.875" vertical-offset="0" max-vertical-offset="2385">
+            <state line="79" column="30" selection-start="3846" selection-end="3846" vertical-scroll-proportion="-13.75" vertical-offset="855" max-vertical-offset="2610">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showcase.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/showcase.php">
+      <file leaf-file-name="project.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/project.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="285" selection-end="285" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1815">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="743" column="20" selection-start="12073" selection-end="12073" vertical-scroll-proportion="0.24895689" vertical-offset="10966" max-vertical-offset="11685">
-              <folding />
+            <state line="50" column="18" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.5213904" vertical-offset="360" max-vertical-offset="2535">
+              <folding>
+                <marker date="1390340422000" expanded="true" signature="51:128" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="73:128" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="111:128" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="247:365" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="292:365" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="719:843" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="771:843" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1036:1152" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1088:1152" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1347:1473" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1399:1473" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1700:1767" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1955:2073" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1955:2080" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1955:2073" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1955:2082" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="1955:2072" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="2007:2073" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="2007:2072" placeholder="..." />
+                <marker date="1390340422000" expanded="true" signature="2333:5592" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -586,16 +138,20 @@
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/projects.php" />
         <option value="$PROJECT_DIR$/project.php" />
+        <option value="$PROJECT_DIR$/application/views/signup.php" />
+        <option value="$PROJECT_DIR$/application/views/login.php" />
         <option value="$PROJECT_DIR$/assets/css/app.css" />
+        <option value="$PROJECT_DIR$/application/views/build.php" />
+        <option value="$PROJECT_DIR$/application/views/project.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php 5.5.3" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="508" />
-    <option name="y" value="22" />
-    <option name="width" value="932" />
-    <option name="height" value="837" />
+    <option name="x" value="1030" />
+    <option name="y" value="88" />
+    <option name="width" value="890" />
+    <option name="height" value="926" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -652,7 +208,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -666,11 +222,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hoatzinest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hoatzinest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -819,7 +393,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="508" y="22" width="932" height="837" extended-state="6" />
+    <frame x="1030" y="88" width="890" height="926" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2627027" sideWeight="0.49962035" order="7" side_tool="false" content_ui="tabs" />
@@ -828,7 +402,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26323318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2759434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32797858" sideWeight="0.5003796" order="7" side_tool="true" content_ui="tabs" />
@@ -836,13 +410,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.49962035" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -870,166 +444,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="64" selection-start="3229" selection-end="3229" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1470" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="39" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="1125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="22" selection-start="1600" selection-end="1600" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="64" selection-start="3229" selection-end="3229" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1470" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="39" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="22" selection-start="1600" selection-end="1600" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="11" selection-start="1773" selection-end="2253" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="22" selection-start="1600" selection-end="1600" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="1545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="93" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="50" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1455">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="93" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="2430" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="111" selection-start="2648" selection-end="2648" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2385" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="252" column="45" selection-start="9190" selection-end="9190" vertical-scroll-proportion="0.0" vertical-offset="3100" max-vertical-offset="4260" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="42" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="9" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="42" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="42" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="42" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="42" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="645" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/flatui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1242" column="25" selection-start="24574" selection-end="24581" vertical-scroll-proportion="0.0" vertical-offset="18323" max-vertical-offset="65790" />
@@ -1075,24 +489,9 @@
         <state line="1166" column="18" selection-start="23120" selection-end="23120" vertical-scroll-proportion="19.785069" vertical-offset="0" max-vertical-offset="65745" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/marketing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4005" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="37" selection-start="206" selection-end="206" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="64" selection-start="3229" selection-end="3229" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1470" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms2.rnc">
@@ -1102,80 +501,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/system/helpers/form_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="56" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1140">
+        <state line="33" column="2" selection-start="874" selection-end="874" vertical-scroll-proportion="0.15982404" vertical-offset="386" max-vertical-offset="15900">
+          <folding>
+            <marker date="1390249752000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="47" selection-start="736" selection-end="736" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="570">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/showcase.php">
+    <entry file="file://$PROJECT_DIR$/application/models/model_users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="285" selection-end="285" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1815">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.086330935" vertical-offset="60" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/application/views/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="26" selection-start="2432" selection-end="2432" vertical-scroll-proportion="-11.125" vertical-offset="783" max-vertical-offset="1455">
+        <state line="11" column="94" selection-start="504" selection-end="504" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects.php">
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1800">
+        <state line="8" column="24" selection-start="344" selection-end="344" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="5520">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="690">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.php">
+    <entry file="file://$PROJECT_DIR$/application/config/migration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="16" selection-start="7549" selection-end="7584" vertical-scroll-proportion="4.279211" vertical-offset="0" max-vertical-offset="3255">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/application/config/mimes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="7" selection-start="2277" selection-end="2277" vertical-scroll-proportion="1.4955357" vertical-offset="0" max-vertical-offset="1095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="29" selection-start="4257" selection-end="4257" vertical-scroll-proportion="-61.875" vertical-offset="0" max-vertical-offset="2385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="49" selection-start="1698" selection-end="1698" vertical-scroll-proportion="-15.916667" vertical-offset="158" max-vertical-offset="2280">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="743" column="20" selection-start="12073" selection-end="12073" vertical-scroll-proportion="0.24895689" vertical-offset="10966" max-vertical-offset="11685">
+        <state line="393" column="53" selection-start="6484" selection-end="6484" vertical-scroll-proportion="0.0" vertical-offset="5550" max-vertical-offset="7125">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/build.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="30" selection-start="3846" selection-end="3846" vertical-scroll-proportion="-13.75" vertical-offset="855" max-vertical-offset="2610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="18" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.5213904" vertical-offset="360" max-vertical-offset="2535">
+          <folding>
+            <marker date="1390340422000" expanded="true" signature="51:128" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="73:128" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="111:128" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="247:365" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="292:365" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="719:843" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="771:843" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1036:1152" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1088:1152" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1347:1473" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1399:1473" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1700:1767" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1955:2073" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1955:2080" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1955:2073" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1955:2082" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="1955:2072" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="2007:2073" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="2007:2072" placeholder="..." />
+            <marker date="1390340422000" expanded="true" signature="2333:5592" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -7,7 +7,7 @@
             <h3>";echo $r['project_title']; echo"</h3>
 
             <!-- Project Images -->
-            <div class='row collapse'>
+            <div class='row main collapse'>
                 <div class='large-4 column'>
                     <h5>Project Image</h5>
                     <a href='"; echo base_url(); echo"assets/uploads/"; echo $r['project_id']; echo".png"; echo"'><img class='left panel nb panelWhite' src='"; echo base_url(); echo "assets/uploads/"; echo $r['project_id']; echo"_thumb.png' alt='project image'/></a>
@@ -19,7 +19,6 @@
                 <div class='large-12 column about'>
                     <h5>About this project</h5>
                     <p>"; echo $r['project_what']; echo"</p>
-                    <p>"; echo $r['project_why']; echo"</p>
                 </div>
             </div>
             <br/>
@@ -56,7 +55,7 @@
             <div class='row collapse main'>
                 <div class='large-12 column about'>
                     <h6>Repository</h6>
-                    <p>"; echo $r['project_repo']; echo"</p>
+                    <p><"; echo $r['project_repo']; echo"</p>
                 </div>
             </div>
             <br/>
@@ -77,7 +76,7 @@
             </div>
             <div class="row collapse">
                 <div class="large-4 columns"></div>
-                <div class="large-8 column">
+                <div class="large-8 columns widget">
                     <a href="#comments" class="button secondary radius extrawide "><h5>Discuss Project</h5></a>
                 </div>
             </div>

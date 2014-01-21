@@ -12,7 +12,7 @@
             <?php echo form_open('login/validate_credentials');?>
             <br/>
             <div>
-                <?php echo form_input('email', set_value('email', 'Email Address'));?>
+                <?php echo form_input('email', set_value('email', ''), 'placeholder="Email Address"');?>
             </div>
             <div>
                 <?php echo form_password('password', '', 'placeholder="Password"');?>
