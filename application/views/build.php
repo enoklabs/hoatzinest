@@ -1,7 +1,7 @@
 <section>
     <div class="row">
         <div class="large-12 columns">
-            <h2>Create a Project</h2>
+            <h3>Create a Project</h3>
             <p>* Denotes Required Field</p>
         </div>
     </div>
@@ -11,16 +11,23 @@
     <?php echo form_open_multipart('build/create');?>
     <div class="row main">
         <div class="large-12 columns">
-            <span class="number left">1</span>
-            <h3>Project Title *</h3>
+            <div class="row build-title">
+                <div class="small-1 columns">
+                    <p class="number left">1</p>
+                </div>
+                <div class="small-11 columns pad-left">
+                    <h3>&nbsp;&nbsp; Project Title</h3>
+                </div>
+            </div>
         </div>
         <div class="large-1 columns"></div>
         <div class="large-10 large-centered columns">
             <div class="row">
                 <div class="large-8 columns">
+                    <label for="project_title">Your project in just a few words *</label>
                     <input type="text" name="project_title" id="project_title" placeholder="HoatziNest - Ideas and Team building platform for web..."/>
                 </div>
-                <div class="large-4 columns">
+                <div class="large-4 columns helper">
                     <p>Example: Real-time Code Editor</p>
                     <p>Example: Mobile App Development</p>
                 </div>
@@ -33,15 +40,23 @@
     <!-- SECTION 2 - DETAILS-->
     <div class="row">
         <div class="large-12 columns">
-            <span class="number left">2</span>
-            <h3>Project Details</h3>
+            <div class="row build-title">
+                <div class="small-1 columns">
+                    <p class="number left">2</p>
+                </div>
+                <div class="small-11 columns pad-left">
+                    <h3>&nbsp;&nbsp; Project Details</h3>
+                </div>
+            </div>
         </div>
         <div class="large-1 columns"></div>
         <div class="large-10 large-centered columns textbox">
             <div class="row">
                 <div class="large-8 columns left">
-                    <span>This project team will need members with expertise in the following areas:</span>
-                    <p>Choose one or more</p>
+                    <label>This project team will need members with expertise in the following areas:</label>
+                </div>
+                <div class="large-4 columns helper no-pad">
+                    <p>Choose one or more *</p>
                 </div>
             </div>
 
@@ -50,23 +65,23 @@
                     <div class="row checkboxes">
                         <div class="large-4 columns">
                             <ul>
-                                <li><input id="developers" name="developers" type="checkbox"/><label for="developers">Developers</label></li>
-                                <li><input id="engineers" name="engineers"  type="checkbox"/><label for="engineers">Engineers</label></li>
-                                <li><input id="managers" name="managers"  type="checkbox"/><label for="managers">Project Managers</label></li>
+                                <li><input id="developers" name="developers" type="checkbox" class="css-checkbox" checked="checked"/><label class="css-label" for="developers">Developers</label></li>
+                                <li><input id="engineers" name="engineers"  type="checkbox" class="css-checkbox"/><label class="css-label" for="engineers">Engineers</label></li>
+                                <li><input id="managers" name="managers"  type="checkbox" class="css-checkbox"/><label class="css-label" for="managers">Project Managers</label></li>
                             </ul>
                         </div>
                         <div class="large-4 columns">
                             <ul>
-                                <li><input id="designers" name="designers"  type="checkbox"/><label for="Designers">Designers</label></li>
-                                <li><input id="Directors" name="directors"  type="checkbox"/><label for="Directors">Art Directors</label></li>
-                                <li><input id="Artists" name="artists" type="checkbox"/><label for="Artists">Artists</label></li>
+                                <li><input id="designers" name="designers"  type="checkbox" class="css-checkbox"/><label class="css-label" for="designers">Designers</label></li>
+                                <li><input id="Directors" name="directors"  type="checkbox" class="css-checkbox"/><label class="css-label" for="Directors">Art Directors</label></li>
+                                <li><input id="Artists" name="artists" type="checkbox" class="css-checkbox"/><label class="css-label" for="Artists">Artists</label></li>
                             </ul>
                         </div>
                         <div class="large-4 columns">
                             <ul>
-                                <li><input id="Marketers" name="marketers" type="checkbox"/><label for="Marketers">Marketers</label></li>
-                                <li><input id="Animators" name="animators" type="checkbox"/><label for="Animators">Video/Animators</label></li>
-                                <li><input id="Writers" name="writers" type="checkbox"/><label for="Writers">Writers</label></li>
+                                <li><input id="Marketers" name="marketers" type="checkbox" class="css-checkbox"/><label class="css-label" for="Marketers">Marketers</label></li>
+                                <li><input id="Animators" name="animators" type="checkbox" class="css-checkbox"/><label class="css-label" for="Animators">Video/Animators</label></li>
+                                <li><input id="Writers" name="writers" type="checkbox" class="css-checkbox"/><label class="css-label" for="Writers">Writers</label></li>
                             </ul>
                         </div>
                     </div>
@@ -75,31 +90,31 @@
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="project_what">What are you creating?</label>
-                    <input type="text" id="project_what" class="large-input" name="project_what" size="9999"></input>
+                    <label for="project_what">What are you creating? *</label>
+                    <textarea id="project_what" class="large-input" name="project_what" required></textarea>
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="project_why">Why are you creating this?</label>
-                    <input type="text" id="project_why" class="large-input" name="project_why"></input>
+                    <label for="project_why">Why are you creating this? *</label>
+                    <textarea id="project_why" class="large-input" name="project_why" required></textarea>
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="project_how">How can others help you?</label>
-                    <input type="text" id="project_how" class="large-input" name="project_how"></input>
+                    <label for="project_how">How can others help you? *</label>
+                    <textarea id="project_how" class="large-input" name="project_how" required></textarea>
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="project_goals">What are the main goals you wish to accomplish with this project?</label>
-                    <input type="text" id="project_goals" class="large-input" name="project_goals"></input>
+                    <label for="project_goals">What are the main goals you wish to accomplish with this project? *</label>
+                    <textarea id="project_goals" class="large-input" name="project_goals" required></textarea>
                 </div>
-                <div class="large-4 columns">
+                <div class="large-4 columns helper">
                     <p>Example: Build an open source community</p>
                     <p>Example: Launch web and mobile app together</p>
                 </div>
@@ -114,23 +129,28 @@
         </div>
         <div class="large-1 columns"></div>
     </div>
-          <!-- SECTION 3 - IMAGES -->
+          
+    <!-- SECTION 3 - IMAGES -->
     <div class="row">
         <div class="large-12 columns">
-            <span class="number left">3</span>
-            <h3>Project Image</h3>
+            <div class="row build-title">
+                <div class="small-1 columns pad-top">
+                    <p class="number left">3</p>
+                </div>
+                <div class="small-11 columns pad-left">
+                    <h3>&nbsp;&nbsp; Project Image</h3>
+                </div>
+            </div>
         </div>
         <div class="large-1 columns"></div>
         <div class="large-10 large-centered columns">
             <div class="row">
                 <div class="large-8 columns">
-                    
                     <label for="file">Add Images...</label>
                     <br/><label for="file">JPEG, PNG, GIF or BMP formats only.</label>
                     <input id="file" type="file" name="userfile" size="20" />                       
-                    <input class="button secondary radius wide right" type="submit" name="submit" value="Submit">
+                    <button class="button secondary radius wide right" type="submit" name="submit" value="Submit">Create Project</button>
                     <br/>
-
                 </div>
             </div>
         </div>
