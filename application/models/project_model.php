@@ -46,9 +46,43 @@
             $this->db->select('*');
             $this->db->from('projects');
             $this->db->where('project_id', $id);
-            return $this->db->get()->result_array();
+            return $this->db->get()->row_array();
     
         }
+		
+		public function get_team_members($id){
+			
+			$this->db->select('team_members.user_id, users.first_name, users.last_name, users.location');
+			$this->db->from('team_members');
+			$this->db->where('team_members.project_id', $id);
+			$this->db->join('users', 'users.id = team_members.user_id');
+			
+			return $this->db->get()->result_array();
+			
+		}
+		
+		
+		public function join_project($id, $email){
+			
+			// Get UserID
+			$this->db->select('id');
+			$this->db->from('users');
+			$this->db->where('email', $email);
+			$user = $this->db->get()->row_array();
+			
+			// Set Insert Data
+			$data = array(
+			
+				'project_id' => $id,
+				'user_id' => $user['id']
+				
+			);
+			
+			// Insert into Team DB
+			$this->db->insert('team_members', $data);
+			
+		}		
+		
         
         
     }
