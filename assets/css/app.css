@@ -64,7 +64,9 @@ body, .panelWhite{
 .extrawide{
     width: 100%;
 }
-
+.main h6{
+    color: #3598DB;
+}
 /********** Header **********/
 header{
     background: #161C27;
@@ -203,7 +205,8 @@ header{
     margin-bottom: 40px;
 }
 .project strong, .project li > p {
-    color: #455874;
+    color: #3498DB;
+    font-size: 12px;
 }
 .project h4{
     margin-bottom: 6px;
@@ -288,6 +291,9 @@ header{
 }
 .name{
     margin: 0!important;
+}
+.name > strong {
+    color: #738298;
 }
 .time{
     color: #c0c8ce!important;
@@ -404,6 +410,97 @@ label.css-label {
     -ms-user-select: none;
     user-select: none;
 
+}
+
+/********** CommentBox **********/
+#HCB_comment_box > h3 {
+    display: none;
+}
+a[href="//www.htmlcommentbox.com"]{
+    color: #FFFFFF !important;
+}
+.home-desc {
+    display: none;
+}
+.hcb-shadow-r {
+    border: 2px solid #D2D6D9 !important;
+    border-radius: 5px !important;
+    padding: 0 10px !important;
+    box-shadow: none;
+
+    margin-top: 15px!important;
+    font-family: "Open Sans", Lato, Helvetica-neue !important;
+    transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s !important;
+}
+.hcb-shadow-r:focus {
+    border-color: #3598DB !important;
+    box-shadow: 0 0 5px #999999 !important;
+    transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s !important;
+}
+#HCB_comment_box input{
+    height: 2.3125rem !important;
+}
+#hcb_form_content{
+    padding: 10px !important;
+    margin-top: 10px!important;
+    font-family: "Open Sans", Lato, Helvetica-neue !important;
+}
+.btn{
+    background-image: none !important;
+    font-size: 15px !important;
+    background-color: #E67E22 !important;
+    color: #FFFFFF !important;
+    padding: 12px 30px !important;
+    transition: background-color 300ms ease-out 0s !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.23)!important;
+    text-shadow: none !important;
+    margin-top: 10px !important;
+}
+#hcb_submit{
+    padding-bottom: 28px!important;
+}
+#hcb_msg{
+    margin-bottom: 15px !important;
+    margin-top: 30px !important;
+    color: #E67E22;
+}
+.comment{
+    border-bottom: 1px solid #CCCCCC;
+    margin: 0 0 60px;
+    padding: 0 10px 10px;
+}
+.date {
+    color: #3598DB;
+    margin-right: 4px;
+}
+.date, .author {
+    font-size: 14px;
+}
+blockquote {
+    border: medium none !important;
+    color: #34495E;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px;
+}
+.hcb-comment-tb {
+    float: right;
+    margin-top: -20px !important;
+}
+#comments_list {
+    margin-top: 40px !important;
+}
+.hcb-flag, .hcb-like, .hcb-reply {
+    padding-left: 20px;
+}
+.hcb-icon {
+    display: none;
+}
+.github-link{
+    color: #3598DB!important;
 }
 
 /********** Footer **********/

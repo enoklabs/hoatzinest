@@ -7,58 +7,52 @@
             <h3>";echo $r['project_title']; echo"</h3>
 
             <!-- Project Images -->
-            <div class='row main collapse'>
+            <div class='row collapse main'>
                 <div class='large-4 column'>
-                    <h5>Project Image</h5>
                     <a href='"; echo base_url(); echo"assets/uploads/"; echo $r['project_id']; echo".png"; echo"'><img class='left panel nb panelWhite' src='"; echo base_url(); echo "assets/uploads/"; echo $r['project_id']; echo"_thumb.png' alt='project image'/></a>
                 </div>
             </div>
 
             <!-- About Project -->
-            <div class='row collapse'>
+            <div class='row collapse main'>
                 <div class='large-12 column about'>
-                    <h5>About this project</h5>
+                    <h6>About this project</h6>
                     <p>"; echo $r['project_what']; echo"</p>
                 </div>
             </div>
-            <br/>
 
 
             <!-- Why? -->
             <div class='row collapse main'>
                 <div class='large-12 column about'>
-                    <h5>Why build?</h5>
+                    <h6>Why build?</h6>
                     <p>"; echo $r['project_why']; echo"</p>
                 </div>
             </div>
-            <br/>
 
             <!-- How can others help? -->
             <div class='row collapse main'>
                 <div class='large-12 column about'>
-                    <h5>How can others help?</h5>
+                    <h6>How can others help?</h6>
                     <p>"; echo $r['project_how']; echo"</p>
                 </div>
             </div>
-            <br/>
 
             <!-- Project Goals -->
-            <div class'row collapse main'>
+            <div class='row collapse main'>
                 <div class='large-12 column about'>
                     <h6>Project Goals</h6>
                     <p>"; echo $r['project_goals']; echo"</p>
                 </div>
             </div>
-            <br/>
 
             <!-- Project Repo-->
             <div class='row collapse main'>
                 <div class='large-12 column about'>
-                    <h6>Repository</h6>
-                    <p>"; echo $r['project_repo']; echo"</p>
+                    <p>Repository:</p>
+                    <a href='http://"; echo $r['project_repo']; echo"' target='_blank' class='github-link'>"; echo $r['project_repo']; echo"</a>
                 </div>
             </div>
-            <br/>
         </div> <!-- End Projects -->
 
 
@@ -82,13 +76,13 @@
             </div>
 
 
-            <div class="row">
+            <div class="row collapse">
                 <div class="large-4 columns"></div>
                 <div class="large-8 columns panelGray widget-head">
                     <h6>Team Members</h6>
                 </div>
             </div>
-            <div class="row">
+            <div class="row collapse">
                 <div class="large-4 columns"></div>
                 <div class="large-8 columns whiteBg widget-body members">
 
@@ -144,19 +138,15 @@
 
 <!-- ======= COMMENTS ======= -->
 <section id="comments" class="whiteBg discussion">
-    <div class="row">
+    <div class="row main">
         <div class="large-8 columns">
-            <br/><br/>
-            <p><strong>Project Discussion</strong></p>
-            <br/><br/>
-            <div class="panel">
-<!-- begin htmlcommentbox.com -->
-                 <div id="HCB_comment_box">Comment Form</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=(hcb_user.PAGE || ""+window.location), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end htmlcommentbox.com -->
+            <h6>Project Discussion</h6>
+            <div>
+                <!-- commentbox -->
+                <div id="HCB_comment_box">Comment Form</a> is loading comments...</div>
 
-
+                <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=(hcb_user.PAGE || ""+window.location), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+                <!-- commentbox -->
             </div>
         </div>
     </div>
