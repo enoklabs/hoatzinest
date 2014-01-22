@@ -91,12 +91,9 @@
 
 <!-- Featured Projects -->
 <section class="cta3">
-    <div class="row collapse">
+    <div class="row">
         <div class="large-8 columns collapse">
-            <br/><br/>
             <h4>Featured Projects</h4>
-            <br/><br/>
-
 
             <!-- Project #1-->
             <?php
