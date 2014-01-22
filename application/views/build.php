@@ -138,7 +138,7 @@
                     <p class="number left">3</p>
                 </div>
                 <div class="small-11 columns pad-left">
-                    <h3>&nbsp;&nbsp; Project Image</h3>
+                    <h3>&nbsp;&nbsp; Project Image *</h3>
                 </div>
             </div>
         </div>
@@ -146,9 +146,9 @@
         <div class="large-10 large-centered columns">
             <div class="row">
                 <div class="large-8 columns">
-                    <label for="file">Add Images...</label>
+                    <label for="file">Show off your idea...</label>
                     <br/><label for="file">JPEG, PNG, GIF or BMP formats only.</label>
-                    <input id="file" type="file" name="userfile" size="20" />                       
+                    <input id="file" type="file" name="userfile" size="20" required></input>                     
                     <button class="button secondary radius wide right" type="submit" name="submit" value="Submit">Create Project</button>
                     <br/>
                 </div>

@@ -66,6 +66,7 @@ class Build extends CI_Controller {
         $config['max_width']  = '9999999';
         $config['max_height']  = '9999999';
         $config['file_name'] = $project_id.'.png';
+		$config['required'] = -1;
 
         $this->load->library('upload', $config);
 

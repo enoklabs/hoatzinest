@@ -53,7 +53,7 @@
             <div class='row collapse main'>
                 <div class='large-12 column about'>
                     <p>Repository</p>
-                    <a href='http://"; echo $r['project_repo']; echo"' target='_blank' class='github-link'>"; echo $r['project_repo']; echo"</a>
+                    <a href='http://"; echo $project['project_repo']; echo"' target='_blank' class='github-link'>"; echo $project['project_repo']; echo"</a>
                 </div>
             </div>
         </div> <!-- End Projects -->
