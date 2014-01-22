@@ -466,3 +466,11 @@ footer > span{
 .mail, .mail2{
 	background-position: center -400px;
 }
+
+
+a[target="_blank"] {
+    color: #F2F2F2 !important;
+}
+.home-desc {
+    display: none;
+}
