@@ -5,12 +5,15 @@
     <!-- ======== META TAGS ======== -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="robots" content="" />
+    <meta name="description" content="HoatziNest is just a place where teams are born through discussing
+creative and inspirational ideas. Inside the HoatziNest, these
+innovative ideas will be ready to be hatched into life." />
+    <meta name="keywords" content="Web development, Team build, Collaboration, Project, Ideas, Creative" />
+    <meta name="author" content="Bryan Penkala & Enok Madrid" />
 
     <!-- ======== TITLE ======== -->
     <title><?php echo $title;?></title>
+    <link rel="icon" href="<?php echo base_url();?>assets/img/icon.gif" type="image/gif" sizes="16x16">
 
     <!-- ======== FONTS ======== -->
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900' rel='stylesheet' type='text/css'>
@@ -21,6 +24,7 @@
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/foundation.css" />
     <link rel="stylesheet" id="flatui-css" media="all" type="text/css" href="<?php echo base_url();?>assets/css/flatui.css" >
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/app.css" />
+    <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
 
     <script src="<?php echo base_url();?>assets/js/modernizr.js"></script>
 
