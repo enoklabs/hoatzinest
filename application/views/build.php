@@ -54,7 +54,6 @@
             <div class="row">
                 <div class="large-8 columns left">
                     <label>This project team will need members with expertise in the following areas:</label>
-
                 </div>
                 <div class="large-4 columns helper no-pad">
                     <p>Choose one or more *</p>
@@ -160,7 +159,7 @@
         <div class="large-1 columns"></div>
     </div>
     <?php echo form_close(); ?>
- 
+
     <br/><br/>
 
 </section>
