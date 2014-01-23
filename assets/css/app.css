@@ -66,6 +66,13 @@ body, .panelWhite{
 .main h6{
     color: #3598DB;
 }
+.errors{
+    color: red;
+}
+textarea{
+    resize: none;
+}
+
 /********** Header **********/
 header{
     background: #161C27;
