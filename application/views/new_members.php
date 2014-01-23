@@ -48,9 +48,9 @@
                     <p class="text-center">
                         <img src="assets/img/foundation5.jpg" alt="article image"/>
                     </p>
-                    <h6><a href="#">Foundation 5 Released!</a></h6>
+                    <h6><a href="http://zurb.com/article/1280/foundation-5-blasts-off--2" target="_blank">Foundation 5 Released!</a></h6>
                     <p class="time">21 November 2013</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti dicta distinctio dolor minus perspiciatis.</p>
+                    <p>It's here. We're thrilled to announce that Foundation 5.0 is available today for you to download. Foundation 4.0 rolled out nine months ago, and ...</p>
                     <p class="text-right"><a href="#">12 comments</a></p><br/>
                 </div>
             </div>
