@@ -68,6 +68,9 @@ body, .panelWhite{
 .errors{
     color: red;
 }
+textarea{
+    resize: none;
+}
 
 /********** Header **********/
 header{
