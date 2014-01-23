@@ -15,9 +15,8 @@
     <div class="row">
         <div class="large-8 large-centered columns">
             <h1 class="text-center">
-                <img class="video" src="assets/img/videoplayer.jpg" alt="Get to know HoatziNest">
+                <iframe class="video" src="//player.vimeo.com/video/84874728?color=3598DB" width="560" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </h1>
-
         </div>
     </div>
 
