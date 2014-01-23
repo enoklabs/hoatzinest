@@ -15,7 +15,7 @@
     <div class="row">
         <div class="large-8 large-centered columns">
             <h1 class="text-center">
-                <img class="video" src="assets/img/videoplayer.jpg" alt="Get to know HoatziNest">
+				<iframe class="video" width="560" height="313" src="//www.youtube-nocookie.com/embed/thchog1lBUU?rel=0" frameborder="0" allowfullscreen></iframe>
             </h1>
 
         </div>

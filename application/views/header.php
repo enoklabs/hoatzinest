@@ -47,6 +47,7 @@ innovative ideas will be ready to be hatched into life." />
         <div class='row'>
             <div class='large-12 columns'>
                 <div class='top-button'>
+					<a class='button small borderShadow right leftRadius'>";?><?php echo $this->session->userdata('email');?><?php echo"</a>
                     <a class='button small borderShadow right leftRadius' href='";?><?php echo base_url();?><?php echo"login/signout'>Sign Out</a>
                 </div>
             </div>
