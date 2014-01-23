@@ -71,7 +71,21 @@ body, .panelWhite{
 textarea{
     resize: none;
 }
-
+.submenu{
+    border-radius: 0 0 6px 0 !important;
+    color: #3598DB;
+    height: 37px;
+    margin-top: 1px;
+}
+.signout{
+    background: #3E556E;
+    border-radius: 0 0 0 6px;
+    height: 37px;
+    margin-top: 1px;
+}
+#signout{
+    display: none;
+}
 /********** Header **********/
 header{
     background: #161C27;

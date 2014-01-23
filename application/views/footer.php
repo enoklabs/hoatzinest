@@ -46,12 +46,12 @@
 </section>
 
 <!-- ======== Scripts ======== -->
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url();?>assets/js/foundation.min.js"></script>
-<script type="text/javascript" src="<?=base_url()?>js/comment.js"></script>
 <script>
     $(document).foundation();
 </script>
+<script type="text/javascript" src="<?php echo base_url();?>assets/js/events.js"></script>
 
 <!-- ======== Google Analytics ======== -->
 <script>

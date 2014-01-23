@@ -46,9 +46,10 @@ innovative ideas will be ready to be hatched into life." />
         <div class='sign-up'>
         <div class='row'>
             <div class='large-12 columns'>
-                <div class='top-button'>
-                    <a class='button small borderShadow right leftRadius' href='";?><?php echo base_url();?><?php echo"login/signout'>Sign Out</a>
-                </div>
+                <ul id='account' class='top-button'>
+                    <li><a class='button small borderShadow right submenu wide'>";?><?php echo $this->session->userdata('email');?><?php echo"</a></li>
+                    <li id='signout'><a class='button small borderShadow right signout wide' href='";?><?php echo base_url();?><?php echo"login/signout'>Sign Out</a></li>
+                </ul>
             </div>
         </div>
     </div>";
