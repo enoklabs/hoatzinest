@@ -50,7 +50,7 @@ innovative ideas will be ready to be hatched into life." />
                     <li><a class='button small borderShadow right submenu wide'>";?><?php echo $this->session->userdata('email');?><?php echo"</a></li>
                     <li id='signout'><a class='button small borderShadow right signout wide' href='";?><?php echo base_url();?><?php echo"login/signout'>Sign Out</a></li>
                 </ul>
-            </div>
+	     </div>
         </div>
     </div>";
 
