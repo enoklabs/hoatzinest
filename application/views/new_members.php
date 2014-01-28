@@ -1,14 +1,12 @@
         <!-- New Members panel-->
         <div class="large-4 columns widget">
             <div class="row collapse">
-                <div class="large-3 columns"></div>
-                <div class="large-9 columns panelGray widget-head">
+                <div class="large-9 columns panelGray widget-head right">
                     <h6>New members looking to team up</h6>
                 </div>
             </div>
             <div class="row collapse">
-                <div class="large-3 columns"></div>
-                <div class="large-9 columns panelWhite widget-body members">
+                <div class="large-9 columns panelWhite widget-body members right">
 
                     <!-- Team Member #1 -->
                     <?php
@@ -37,14 +35,12 @@
         <!-- Featured article panel-->
         <div class="large-4 columns right">
             <div class="row collapse">
-                <div class="large-3 columns"></div>
-                <div class="large-9 columns panelGray widget-head">
+                <div class="large-9 columns panelGray widget-head right">
                     <h6>Featured Article</h6>
                 </div>
             </div>
             <div class="row collapse">
-                <div class="large-3 columns"></div>
-                <div class="large-9 columns panelWhite widget-body">
+                <div class="large-9 columns panelWhite widget-body right">
 
                     <p class="text-center">
                         <img src="assets/img/foundation5.jpg" alt="article image"/>

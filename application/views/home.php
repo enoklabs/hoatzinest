@@ -13,20 +13,18 @@
 
     <!-- Video Player -->
     <div class="row">
-        <div class="large-8 large-centered columns">
-            <h1 class="text-center">
+
+            <h1 class="large-8 large-centered columns text-center">
                 <iframe class="video" src="//player.vimeo.com/video/84874728?color=3598DB" width="560" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </h1>
-        </div>
+
     </div>
 
     <!-- Message -->
     <div class="row message">
-        <div class="large-12 columns text-center">
-            <br/><br/>
-            <h3>Crafting ideas and finding the right team to make it happen has never been easier</h3>
-            <br/><br/>
-        </div>
+
+            <h3 class="large-12 columns text-center">Crafting ideas and finding the right team to make it happen has never been easier</h3>
+
     </div>
 
 <!-- 4 Steps -->
