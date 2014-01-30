@@ -37,7 +37,6 @@ innovative ideas will be ready to be hatched into life." />
 <!-- Header -->
 <header>
 
-
     <?php
     
     if ($this->session->userdata('is_logged_in') == TRUE){
@@ -45,7 +44,7 @@ innovative ideas will be ready to be hatched into life." />
         echo"
         <div class='sign-up'>
         <div class='row'>
-            <ul id='account' class='large-12 columns top-button'>
+            <ul id='account' class='large-4 columns top-button right'>
                 <li><a class='button small borderShadow right submenu wide'>";?><?php echo $this->session->userdata('email');?><?php echo"</a></li>
                 <li id='signout'><a class='button small borderShadow right signout wide' href='";?><?php echo base_url();?><?php echo"login/signout'>Sign Out</a></li>
             </ul>
@@ -71,9 +70,9 @@ innovative ideas will be ready to be hatched into life." />
     <nav>
         <div class="row">
 
-                <a class="large-4 columns logo" href="<?php echo base_url();?>">
-                    <img src="<?php echo base_url();?>assets/img/hoatzinest_logo.png" alt="HoatziNest Logo">
-                </a>
+            <a class="large-4 columns logo" href="<?php echo base_url();?>">
+                <img src="<?php echo base_url();?>assets/img/hoatzinest_logo.png" alt="HoatziNest Logo">
+            </a>
 
             <div class="large-8 columns nav">
                 <ul class="right inline-list">

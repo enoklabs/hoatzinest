@@ -5,7 +5,7 @@
             <h3>About</h3>
 
             <div class="row main">
-                <div class="large-6 columns">
+                <div class="large-5 columns">
                     <p>HoatziNest is an online platform for enthusiasts that love
                         building for the web, whether it is a website, web application, or
                         mobile application, they can share ideas in teams. The teams
@@ -20,15 +20,15 @@
                         found in this online platform.
                     </p>
                 </div>
-                <div class="large-6 columns">
+                <div class="large-7 columns">
                     <img src="<?php echo base_url();?>assets/img/about1.jpg" alt="about image"/>
                 </div>
             </div>
             <div class="row main">
-                <div class="large-6 columns">
+                <div class="large-5 columns">
                     <img src="<?php echo base_url();?>assets/img/about2.jpg" alt="about image"/>
                 </div>
-                <div class="large-6 columns">
+                <div class="large-7 columns">
                     <p>So to put it in perspective, this is simply a website for web designers 
                         and developers to share ideas and communicate. HoatziNest does not focus 
                         on the <i>&apos;get the job done&apos;</i> part of collaboration platforms or project management

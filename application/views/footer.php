@@ -16,7 +16,7 @@
         <div class="large-2 columns">
             <ul>
                 <span>About</span>
-                <li><a href="#">History</a></li>
+                <li><a href="<?php echo base_url();?>about">History</a></li>
                 <li><a href="<?php echo base_url();?>contact">Contact</a></li>
                 <li><a href="#">Terms of use</a></li>
             </ul>
@@ -24,10 +24,8 @@
         <div class="large-2 columns">
             <ul>
                 <span>Community</span>
-                <li><a href="#">Members</a></li>
                 <li><a href="<?php echo base_url();?>projects">Projects</a></li>
                 <li><a href="<?php echo base_url();?>showcase">Showcase</a></li>
-                <li><a href="#">Resources</a></li>
             </ul>
         </div>
         <div class="large-4 columns">
@@ -39,9 +37,7 @@
 
 <section class="copyright">
     <div class="row">
-        <div class="large-12 columns">
-            <p>HoatziNest &copy; 2013. All Rights Reserved. Broken House Creative</p>
-        </div>
+        <p class="large-12 columns">HoatziNest &copy; 2014. All Rights Reserved. Broken House Creative</p>
     </div>
 </section>
 

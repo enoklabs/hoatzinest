@@ -1,10 +1,8 @@
 <section>
 
     <div class="row">
-        <div class="large-12 columns">
-            <h3>Have a question, concern, or awesome idea? Let us know!</h3>
-            <p>* Denotes Required Field</p>
-        </div>
+        <h3>Have a question, concern, or awesome idea? Let us know!</h3>
+        <p class="pad-left">* Denotes Required Field</p>
     </div>
 
     <div class="row main">

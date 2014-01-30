@@ -1,8 +1,7 @@
 <section>
     <div class="row">
+        <h3>Open Projects - Join one!</h3>
         <div class="large-12 columns">
-            <h3>Open Projects - Join one!</h3>
-            
             <div class='row main'>
                 
             
